@@ -1,1 +1,2 @@
-# Fooooood
+# Fast Food UI
+The FastFoodUI project is a web application designed to provide users with a seamless experience for exploring and selecting fast food options. Developed using server-side fetching, this website dynamically displays details of various fast food items categorized into breakfast, lunch, and dinner. Users can easily navigate through the interface by clicking on corresponding buttons to view the desired food type, making it convenient to find their preferred meals. With its intuitive design and efficient functionality, FastFoodUI offers a modern solution for fast food enthusiasts to discover and enjoy their favorite dishes
